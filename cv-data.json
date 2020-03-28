@@ -1,0 +1,370 @@
+{
+  "tr": {
+    "title": "Bilgisayar Mühendisi",
+    "job": "Web & Mobil Geliştirici",
+    "aboutme": {
+      "title": "Hakkımda",
+      "content": "Kod yazmaya üniversitede başladım. İlk yıl C ve C++ ile okulda gördüklerimle giriş yaptım. Daha sonra HTML ve CSS'e yöneldim. Bir süre JS kullanmadan sadece HTML ve CSS kullanarak Website tasarımları yaptım. Daha sonra Unity 3D ile tanıştım ve oyun yapmaktan çok keyif aldım. Bir süre Unity, HTML ve CSS ile devam ettikten sonra React Native öğrendim. Ardından JavaScript ile alakalı bir çok teknolojiye dair bilgim oldu. JavaScript'te kendimi geliştirmeye devam ettim ve şu anda başta React, React Native, Expo, Firebase, Next ve Redux olmak üzere bir çok teknolojiye hakim durumdayım."
+    },
+    "techs": {
+      "primary": {
+        "title": "Birincil Yeteneklerim",
+        "content": ["React", "React Native", "JavaScript", "Expo", "Redux", "HTML", "CSS", "Firebase", "NextJS"]
+      },
+      "secondary": {
+        "title": "İkincil Yeteneklerim",
+        "content": [
+          "Adobe XD",
+          "Figma",
+          "ElectronJS",
+          "NodeJS",
+          "MongoDB",
+          "Unity3D & C#",
+          "Socket.io",
+          "Express",
+          "Python"
+        ]
+      }
+    },
+    "education": {
+      "header": "Eğitim",
+      "content": [
+        {
+          "date": "2010 - 2014",
+          "school": "Dede Korkut Anadolu Lisesi"
+        },
+        {
+          "date": "2014 - Devam",
+          "school": "Namık Kemal Üniversitesi"
+        }
+      ]
+    },
+    "experience": {
+      "header": "Deneyim",
+      "content": [
+        {
+          "date": "2019",
+          "job": "Website",
+          "type": "Staj",
+          "company": "Doğuş Teknoloi",
+          "description": "Doğuş Teknoloji'de 2 ay Front-End olarak staj yaptım. Bu süreçte 2 tane web projesinde yer aldım."
+        },
+        {
+          "date": "2019",
+          "job": "Website",
+          "type": "Freelance",
+          "company": "Erdal Gümüş",
+          "description": "Bir sipariş oluşturulacakken, bu siparişteki ürünlerin atölye tarafındaki hesaplamaları fazla uzun sürdüğü için yapılmış bir web uygulaması. Ürünler oluiturulduktan sonra, siparişe eklendiğinde bütün hesaplamalar otomatik yapılıyor. React ve Firebase teknolojileri ile geliştirildi."
+        },
+        {
+          "date": "2019",
+          "job": "Website",
+          "type": "Freelance",
+          "company": "Diyetinaslı",
+          "description": "Bir diyetisyen için kişisel Websitesi. Site üzerinde blog, ideal kilo hesaplama, online diyet formu özellikleri bulunmakta. NextJS ve React ile Server-Side Render yaparak geliştirildi."
+        },
+        {
+          "date": "2019",
+          "job": "Mobil Uygulama",
+          "type": "Freelance",
+          "company": "Nejdet Gümş",
+          "description": "Müşteri iletişim bilgisine kolaylıkla ulaşabilme, müşterilere çağrı yönlendirme ve müşteriler için oluşturulan notları tutma özelliklerini barındıran bir uygulama."
+        },
+        {
+          "date": "2019",
+          "job": "Masaüstü Otomasyon",
+          "type": "Okul Projesi",
+          "company": "İstanbul Mensucat",
+          "description": "Depo ve satış-pazarlama departmanları için hazırlanmış bir fabrika otomasyonu. Depo departmanına gelen malzemeleri barkod okutarak direkt veri tabanına yazabilir ve aynı şekilde üretime gönderilen malzemeleri veritabanında stok durumundan azaltmaya yarar. Satış-Pazarlama departmanındaysa müşteriler için siparişler oluşturulur ve sipariş durumları takip edilir."
+        }
+      ]
+    },
+    "projects": {
+      "header": "Projeler",
+      "content": [
+        {
+          "date": "2015",
+          "type": "Mobil Oyun",
+          "title": "Be A Basketball Ball",
+          "description": "Üniversite hayatımın ikinci yılında yazılıma merak salmaya başladığım zamanlarda geliştirdiğim ilk projem. Zorlayıcı türde bir oyun. Google Playstore'da mevcut. Unity 3D ile geliştirildi."
+        },
+        {
+          "date": "2016",
+          "type": "Mobil Uygulama",
+          "title": "Bugün Ne Yapsam?",
+          "description": "React Native ile geliştirdiğim ilk proje. Arkadaşımla birlikte geliştirdiğim bu proje ile İTÜ Çekirdek'e katılmaya hak kazandık. Uygulama seçtiğiniz malzemelerin dışına çıkmadan, o malzemelerle yapabileceğiniz yemekleri listeliyor. Anafikir bu iken, başka özellikleri de içermektedir. App Store ve Playstore'da mevcut."
+        },
+        {
+          "date": "2017",
+          "type": "Mobil Oyun",
+          "title": "Brick Boy",
+          "description": "Mobil blok kırma oyunu. Her turda top sayınız artar ve daha dayanıklı bloklar gelir. Ekstra güçlendirmeleri toplayarak daha fazla ilerleyebilirsiniz ve farklı karakterler satın alarak farklı güçlere sahip olabilirsiniz. Unity 3D ile geliştirildi. App Store'da mevcut."
+        },
+        {
+          "date": "2018",
+          "type": "Mobil Uygulama",
+          "title": "Currency",
+          "description": "Merkez bankasından aldığım verilerle anlık kur bilgilerini gösteren ve istediğiniz kur için istediğiniz saatte kur bilgilerini bildirim olarak alabileceğiniz bir uygulama."
+        },
+        {
+          "date": "2018",
+          "type": "API",
+          "title": "Currency",
+          "description": "Merkez bankasından gelen XML kur verilerini JSON formatında cevap olarak gönderen bir API. Aynı zamanda Firebase veritabanına bağlanıp kimin hangi saatte hangi kur için bildirim istediğini kontrol edip anlık olarak bildirimleri gönderir."
+        },
+        {
+          "date": "2019",
+          "type": "Mobil Uygulama",
+          "title": "Görmeden Öğren",
+          "description": "Ankara'da ODTÜ Hackathon yarışmasında görme engeli olan insanlara yönelik, sesli yönlendirmeler ve kolay parmak hareketleri sayesinde görme yetiniz olmadan kullanabileceğiniz bir uygulama. İhtiyacınız olan konularda, konu hakkında bilgisi olan bir gönüllü ile eşleşiyorsunuz ve görüntülü konuşma başlıyor."
+        },
+        {
+          "date": "2019",
+          "type": "Website",
+          "title": "Letsfy",
+          "description": "Doğuş teknolojideyken Front-End tarafında görev aldığım bir web projesi. Proje danışanlar ve danışmanlar arasında bir pazar alanı kurmaya yönelik. React ve Next Kullanılarak geliştirildi. Henüz piyasaya çıkmadı."
+        },
+        {
+          "date": "2019",
+          "type": "Website",
+          "title": "Flex Benefits",
+          "description": "Doğuş teknolojideyken Front-End tarafında görev aldığım bir web projesi. React ile geliştirildi ve henüz piyasaya çıkmadı."
+        }
+      ]
+    },
+    "seminars": {
+      "header": "Seminerler",
+      "content": [
+        {
+          "date": "2016",
+          "text": "Fikri Mobil 2016 Bilişim Şenliği"
+        },
+        {
+          "date": "2016",
+          "text": "Google Developer Group DevFEST 2016"
+        },
+        {
+          "date": "2017",
+          "text": "Google Developer Group DevFEST 2017"
+        }
+      ]
+    },
+    "courses": {
+      "header": "Aldığım Kurslar",
+      "content": [
+        {
+          "provider": "udemy",
+          "text": "Sıfırdan Her Yönüyle Javascript ve Node.js"
+        },
+        {
+          "provider": "udemy",
+          "text": "React Native ile iOS ve Android Uygulama Geliştirme ve Redux"
+        },
+        {
+          "provider": "udemy",
+          "text": "Unity C# | Sıfırdan 2D & 3D Oyun Geliştirme Eğitimi"
+        },
+        {
+          "provider": "udemy",
+          "text": " React Natie: Advanced Concepts"
+        },
+        {
+          "provider": "udemy",
+          "text": "Electron for Desktop Apps: The Complete Developer's Guide"
+        },
+        {
+          "provider": "udemy",
+          "text": "UI/UX design with Adobe XD: Design & Prototype a Mobile App"
+        }
+      ]
+    },
+    "hobbies": {
+      "header": "İlgi Alanlarım",
+      "content": ["Video oyunları oynamak", "Mobil oyun geliştirmek"]
+    }
+  },
+  "en": {
+    "title": "Computer Engineer",
+    "job": "Web & Mobile Developer",
+    "aboutme": {
+      "title": "About Me",
+      "content": "I started coding at College. I entered this 'Hello' world with C and C++ that I learned from college. Then I learned HTML and CSS. I designed Websites with HTML and CSS for a while, without JS. Then I met Unity 3d and I really enjoyed developing games. After going with Unity, HTML and CSS for a while, I learned React Native. With that rush, I learned too many JavaScript technologies. I kept improving myself in JavaScript and now I'm good at it especially React, React Native, Expo, Firebase, Next and Redux. "
+    },
+    "techs": {
+      "primary": {
+        "title": "Primary Skills",
+        "content": ["React", "React Native", "JavaScript", "Expo", "Redux", "HTML", "CSS", "Firebase", "NextJS"]
+      },
+      "secondary": {
+        "title": "Secondary Skills",
+        "content": [
+          "Adobe XD",
+          "Figma",
+          "ElectronJS",
+          "NodeJS",
+          "MongoDB",
+          "Unity3D & C#",
+          "Socket.io",
+          "Express",
+          "Python"
+        ]
+      }
+    },
+    "education": {
+      "header": "Education",
+      "content": [
+        {
+          "date": "2010 - 2014",
+          "school": "Dede Korkut Anatolian High School"
+        },
+        {
+          "date": "2014 - Continue",
+          "school": "Namık Kemal University"
+        }
+      ]
+    },
+    "experience": {
+      "header": "Experience",
+      "content": [
+        {
+          "date": "2019",
+          "job": "Website",
+          "type": "Intern",
+          "company": "Doğuş Teknoloi",
+          "description": "I worked as Front-End intern at Doğuş Teknoloji for 2 months. I developed two websites in that time."
+        },
+        {
+          "date": "2019",
+          "job": "Website",
+          "type": "Freelance",
+          "company": "Erdal Gümüş",
+          "description": "While creating an order, there is too many calculations of products that have many relations with other materials. This Web Application calculates everything order is created. Developed with React and Firebase."
+        },
+        {
+          "date": "2019",
+          "job": "Website",
+          "type": "Freelance",
+          "company": "Diyetinaslı",
+          "description": "A Personal Website for a dietician. It has it's own blog, ideal weight calculation and online diet application. Developed with Next and React with Firebase."
+        },
+        {
+          "date": "2019",
+          "job": "Mobile Application",
+          "type": "Freelance",
+          "company": "Nejdet Gümş",
+          "description": "This app orders customers, lets you take notes with photos about your customers and can call customers from app."
+        },
+        {
+          "date": "2019",
+          "job": "Desktop Otomation",
+          "type": "School Project",
+          "company": "İstanbul Mensucat",
+          "descrip": "This app especially developed for storage and sales department of a factory. When new materials brought to storage, staff can record them by just scanning a QR code and removing them by the same way. In sales department, staff can create customers and customers can see their orders's progress."
+        }
+      ]
+    },
+    "projects": {
+      "header": "Projects",
+      "content": [
+        {
+          "date": "2015",
+          "type": "Mobile Game",
+          "title": "Be A Basketball Ball",
+          "description": "This is my first project. I developed it when I was in my second year of college. It's a hard to play game. Available at Google Play Store. Developed with Unity 3D"
+        },
+        {
+          "date": "2016",
+          "type": "Mobile Application",
+          "title": "Bugün Ne Yapsam?",
+          "description": "It's the first project that I developed with React Native. We deserved to join ITU Çekirdek with this project that I developed with a friend. App suggests you foods that you can make with the materials you selected. That's the main idea and it has some different features too."
+        },
+        {
+          "date": "2017",
+          "type": "Mobile Game",
+          "title": "Brick Boy",
+          "description": "A mobile brick breaking game. Ball count increases every level as well as bricks get stronger. You can go further by collecting power ups and customize game by buying different characters. Developed with Unity 3D and available at App Store."
+        },
+        {
+          "date": "2018",
+          "type": "Mobile Application",
+          "title": "Currency",
+          "description": "An app that shows currency data that I get from the Central Bank and people can get notifications hourly about the currency that he chooses. Developed with React, Firebase and Expo. "
+        },
+        {
+          "date": "2018",
+          "type": "API",
+          "title": "Currency",
+          "description": "An API that converts XML data to JSON which taken from the Central Park and provides it to my Currency mobile app. Also user notifications are happening here too. Developed with Nodejs, Express, ExpoSDK and Firebase."
+        },
+        {
+          "date": "2019",
+          "type": "Mobile Application",
+          "title": "Görmeden Öğren",
+          "description": "An app for blind people. We developed it at ODTÜ Hackathon. We used smartphone's native voice assistant to orient users. Also with good gestures. When blind users need an information about a lesson, they choose the lesson and we find a volunteer that can teach that lesson. And the live video chat start."
+        },
+        {
+          "date": "2019",
+          "type": "Website",
+          "title": "Letsfy",
+          "description": "One of the projects that I developed at Doğuş Teknoloji. Project is creating a market about clients and counselors. Developed with React and Next. Not published yet. "
+        },
+        {
+          "date": "2019",
+          "type": "Website",
+          "title": "Flex Benefits",
+          "description": "One of the projects that I developed at Doğuş Teknoloji. I can't tell much about the project. Developed with React and not published yet."
+        }
+      ]
+    },
+    "seminars": {
+      "header": "Seminars",
+      "content": [
+        {
+          "date": "2016",
+          "text": "Fikri Mobil 2016 Bilişim Şenliği"
+        },
+        {
+          "date": "2016",
+          "text": "Google Developer Group DevFEST 2016"
+        },
+        {
+          "date": "2017",
+          "text": "Google Developer Group DevFEST 2017"
+        }
+      ]
+    },
+    "courses": {
+      "header": "Courses",
+      "content": [
+        {
+          "provider": "udemy",
+          "text": "Sıfırdan Her Yönüyle Javascript ve Node.js"
+        },
+        {
+          "provider": "udemy",
+          "text": "React Native ile iOS ve Android Uygulama Geliştirme ve Redux"
+        },
+        {
+          "provider": "udemy",
+          "text": "Unity C# | Sıfırdan 2D & 3D Oyun Geliştirme Eğitimi"
+        },
+        {
+          "provider": "udemy",
+          "text": " React Natie: Advanced Concepts"
+        },
+        {
+          "provider": "udemy",
+          "text": "Electron for Desktop Apps: The Complete Developer's Guide"
+        },
+        {
+          "provider": "udemy",
+          "text": "UI/UX design with Adobe XD: Design & Prototype a Mobile App"
+        }
+      ]
+    },
+    "hobbies": {
+      "header": "Hobbies",
+      "content": ["Play video games", "Develop mobile games"]
+    }
+  }
+}
